@@ -1,11 +1,11 @@
 ﻿label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
 埋め立てごみ,,,img/umetate01.gif,#adc7aa
 紙類Ａ群,,,img/kami01.gif,#d28870
 ペットボトル,,,img/pet01.gif,#68b6a4
 プラスチック類,,,img/pura01.gif,#d2ff70
-
+紙類Ｂ群,,,img/kamib01.png,#733b96
+鉄・アルミ類,,,img/tetuarumi01.png,#77ae1f
+白色トレー・カップ麺容器,,,img/sirokapu01.png,#27ae1f
 
